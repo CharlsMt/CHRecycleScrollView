@@ -1,3 +1,7 @@
+CHRecycleScrollView是一个可以使图片无限循环的Demo，应用也比较简单，代码清晰易懂。
+
+
+
 1.结合SDWebImage 的缓存机制，有效的控制内存管理。
 
 
